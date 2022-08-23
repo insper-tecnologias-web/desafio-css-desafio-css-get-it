@@ -51,10 +51,10 @@ body {
 }
 .form-card{
   display: flex;
-  width: 40%;
+  width: 35%;
   flex-direction: column;
   justify-content: flex-start;
-  margin: 10px;
+  margin: 20px;
   padding: 5px;
   align-self: center;
   border-radius: 5px;
@@ -75,6 +75,32 @@ body {
   outline-width: 0;
   margin: 5px;
 }
+.card-container{
+  margin-top: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.card{ 
+  display: flex;
+  width: 205px;
+  flex-direction: column;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  font-family: 'Permanent Marker', cursive;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+.card-title{
+  margin: 5px;
+}
+.card-content{
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  color: #4c4c4c;
+}
+
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
   .btn {
