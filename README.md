@@ -4,7 +4,7 @@ Grupo:
 
 - Giovana Cassoni Andrade
 - Marlon Silva Pereira
-- Link do GitHub Pages: https://github.com/insper-tecnologias-web/desafio-css-desafio-css-get-it.git (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
+- Link do GitHub Pages: https://insper-tecnologias-web.github.io/desafio-css-desafio-css-get-it/ (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
 
 ## Desafio CSS
 
