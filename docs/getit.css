@@ -73,12 +73,15 @@ body {
   font-size: 15px;
   outline-width: 0;
   margin: 5px;
+  resize: initial;
 }
 .card-container{
-  margin-top: 20px;
+  margin-top: 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  width: 95%;
+  align-self: center;
 }
 .card{ 
   display: flex;
@@ -92,6 +95,7 @@ body {
   }
 .card-title{
   margin: 5px;
+  margin-bottom: 8px;
 }
 .card-content{
   margin: 5px;
